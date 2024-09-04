@@ -4,7 +4,7 @@
 
 > postman 테스트
 
-![image](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/f_/899080pj43350dfwt3jqhshh0000gn/T/TemporaryItems/NSIRD_screencaptureui_Jybs62/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-04%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.23.59.png?version%3D1725459850129)
+![스크린샷 2024-09-04 오후 11 30 40](https://github.com/user-attachments/assets/553575ba-4f17-4b0c-974c-2d950e4de7d2)
 
 > req, res 테스트
 
@@ -51,7 +51,7 @@ app.post('/youtuber', (req, res) => {
 });
 ```
 
-![image](/Users/chan/Desktop/스크린샷 2024-09-04 오후 11.30.25.png)
+![스크린샷 2024-09-04 오후 11 30 25](https://github.com/user-attachments/assets/36abeb73-06fb-4858-b0f4-db1efd97887d)
 
 1. request값 json으로 읽음 express.json 미들웨어 불러서 사용
 2. POST -> request 콘솔 확인
