@@ -12,7 +12,7 @@
 app.use(express.json())
 ```
 
-![image](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/f_/899080pj43350dfwt3jqhshh0000gn/T/TemporaryItems/NSIRD_screencaptureui_WfeXbK/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-04%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.24.31.png?version%3D1725459877874)
+![스크린샷 2024-09-04 오후 11 30 58](https://github.com/user-attachments/assets/3a73b8cb-d3d9-4dea-8a30-6d501f43246f)
 
 > 서버에서 받을 때
 
