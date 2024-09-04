@@ -3,14 +3,14 @@
 ---
 
 > postman 테스트
-> ![alt text](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/f_/899080pj43350dfwt3jqhshh0000gn/T/TemporaryItems/NSIRD_screencaptureui_Jybs62/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-04%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.23.59.png?version%3D1725459850129)
+> ![image](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/f_/899080pj43350dfwt3jqhshh0000gn/T/TemporaryItems/NSIRD_screencaptureui_Jybs62/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-04%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.23.59.png?version%3D1725459850129)
 > req, res 테스트
 
 ```
 app.use(express.json())
 ```
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/f_/899080pj43350dfwt3jqhshh0000gn/T/TemporaryItems/NSIRD_screencaptureui_WfeXbK/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-04%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.24.31.png?version%3D1725459877874)
+![image](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/f_/899080pj43350dfwt3jqhshh0000gn/T/TemporaryItems/NSIRD_screencaptureui_WfeXbK/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-04%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.24.31.png?version%3D1725459877874)
 
 > 서버에서 받을 때
 
@@ -49,7 +49,7 @@ app.post('/youtuber', (req, res) => {
 });
 ```
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/f_/899080pj43350dfwt3jqhshh0000gn/T/TemporaryItems/NSIRD_screencaptureui_RGH309/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-04%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.25.33.png?version%3D1725459937649)
+![image](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/f_/899080pj43350dfwt3jqhshh0000gn/T/TemporaryItems/NSIRD_screencaptureui_RGH309/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-04%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.25.33.png?version%3D1725459937649)
 
 1. request값 json으로 읽음 express.json 미들웨어 불러서 사용
 2. POST -> request 콘솔 확인
