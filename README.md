@@ -40,6 +40,23 @@ app.post('/test', function (req, res) {
   - req : body <= channelTitle, sub = , videoNum = 0 신규 유튜버 정보를 전달
   - res : "channelTitle님, 유튜버 생활을 응원합니다!"
 
+3. DELETE
+
+- 개별
+
+  - req : params.id
+  - "channelTitle님, 아쉽지만 다음에 또 뵙겠습니다."
+
+- 전체
+  - req : X
+  - res : "전체 유튜버가 삭제되었습니다."
+
+4. PUT
+
+- 개별
+  - req : params.id, body <= channelTitle>
+  - res : "(이전)channelTitle님, 채널명이 (새로운) channelTitle로 변경되었습니다."
+
 ```
 app.use(express.json());
 app.post('/youtuber', (req, res) => {
