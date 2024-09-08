@@ -1,15 +1,10 @@
 const express = require('express');
 const app = express();
+app.listen(1234);
 
 app.get('/', function (req, res) {
   res.send('Hello World');
 });
-// 콜백함수
-
-// API + GET + "http://localhost:1234/test"
-// "TEST SUCCESS"
-
-app.listen(1234);
 
 let nodejsBook = {
   title: 'Node.js를 공부해보자',
